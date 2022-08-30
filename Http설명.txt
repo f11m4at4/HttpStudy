@@ -1,0 +1,15 @@
+- HTTP
+	Client -> Server에게 요청
+	Server -> Client에게 응답.
+	(단방향 통신)
+
+ POST		: 데이터를 생성
+ GET		: 데이터를 조회
+ PUT		: 데이터를 업데이트(수정)
+ DELETE	: 데이터를 삭제
+ 프로토콜(protocol) : 클라 / 서버 데이터를 주고 받을 때 약속
+
+
+- Socket(TCP, UDP)
+	Client <-> Server 서로 데이터를 주고받음
+	실시간 통신(채팅, 온라인게임)
